@@ -136,7 +136,7 @@ public class TuringMachine {
     }
 
     public static void main(String[] args) {
-        String filename = "TuringMachine/DecrementorConf.txt";
+        String filename = "TuringMachine/DecrementerConf.txt";
         if (args != null && args.length > 0) {
             filename = args[0];
         }
